@@ -3,7 +3,7 @@
     "description": "Export Statamic Entries as PDF",
     "license": "MIT",
     "require": {
-        "statamic/cms": "^3.0.0",
+        "statamic/cms": "^4.0.0",
         "barryvdh/laravel-dompdf": "^1.0.0"
     },
     "autoload": {
